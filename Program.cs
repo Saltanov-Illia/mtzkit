@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Лабораторну роботу виконав Салтанов Iлля, група КН-26, 1-й курс");
